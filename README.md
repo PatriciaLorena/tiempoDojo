@@ -1,3 +1,4 @@
 # Tiempo Dojo
-Una pagina web que muestra el pronostico del tiempo
+*Pronostico del tiempo*
+Muestra el pronostico del tiempocon la opcion de cambiar los grados que estan en celsius a fahrenheit
 
